@@ -1,0 +1,34 @@
+body {
+    margin: 20px;
+    font-family: 'Dancing Script', cursive, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 5px;
+}
+
+p{
+    font-weight: bold;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #a2d2ff;
+    color: #560bad;
+    border-bottom: 10px solid #ff8fab;
+    border-radius: 7px;
+        
+}
+
+
+
+
+
+
+
